@@ -1,0 +1,8 @@
+title: ansámbl
+description: Hudební improvizační skupina
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-tactile
+
+gems:
+  - jekyll-mentions
